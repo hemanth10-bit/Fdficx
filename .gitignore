@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+# Environment configuration files
+.env
+.env.production
+.env.development
+.env.local
+.env*
+!.env.example
